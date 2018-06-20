@@ -1,0 +1,339 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evenlim.com" resolutions="1x" timestamp="1529500694053">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="282008664" ref="index"/>
+    <file name="nomq_index.css" crc="3868600392" ref="index"/>
+    <file name="portfile.css" crc="3945603555" ref="portfile"/>
+    <file name="nomq_portfile.css" crc="519144268" ref="portfile"/>
+    <file name="personal-resume.css" crc="3837591788" ref="personal-resume"/>
+    <file name="nomq_personal-resume.css" crc="114424115" ref="personal-resume"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:personal-resume:portfile"/>
+    <file name="museutils.js" crc="3803043152" ref="index:personal-resume:portfile"/>
+    <file name="whatinput.js" crc="86476730" ref="index:personal-resume:portfile"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:personal-resume:portfile"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:personal-resume:portfile"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:personal-resume:portfile"/>
+    <file name="require.js" crc="4157109226" ref="index:personal-resume:portfile"/>
+  </folder>
+  <folder name="images">
+    <file name="bitmap@2x.jpg" crc="476193121" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitmapt@2x.jpg" crc="3889698222" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitmap@2x480x480.jpg" crc="340353020" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitmapt@2x563x335.jpg" crc="49395442" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitmap@2x368x369.jpg" crc="3901484851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitmapt@2x432x258.jpg" crc="3937400480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitmap@2x307x308.jpg" crc="4122250886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitmapt@2x360x215.jpg" crc="3949272679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitmap@2x230x231.jpg" crc="4182213085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitmapt@2x270x161.jpg" crc="97922773" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitmap@2x151x152.jpg" crc="267775050" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitmapt@2x180x108.jpg" crc="282620194" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:personal-resume:portfile"/>
+    <file name="wechatimg163@2x.png" crc="428445892" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="rectanglec@2x.jpg" crc="4017961605" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg164@2x221x213.jpg" crc="3991400441" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg160@2x.jpg" crc="394426836" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="rectangle @2x.png" crc="4233068539" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="jianli@2x.png" crc="3786527141" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="c@2x.png" crc="161853917" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="zhengshu@2x.png" crc="4163008461" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="rectangle a@2x.jpg" crc="186007468" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="邮箱@2x.png" crc="380862061" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="dizhi@2x.png" crc="4155323511" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="weibo@2x.png" crc="299220605" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="weixin@2x.png" crc="4238660287" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg164@2x.jpg" crc="4069344725" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg163@2x958x681.png" crc="460877363" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="rectanglec@2x904x459.jpg" crc="424178551" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg164@2x184x177.jpg" crc="442745374" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg160@2x247x438.jpg" crc="4053104646" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="rectangle a@2x460x202.jpg" crc="4002700431" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg164@2x281x271.jpg" crc="260897439" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg163@2x736x524.png" crc="3989028117" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="rectanglec@2x695x353.jpg" crc="88173344" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg164@2x142x136.jpg" crc="109536223" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg160@2x190x337.jpg" crc="335001982" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="rectangle a@2x353x155.jpg" crc="4045910331" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg164@2x216x208.jpg" crc="3781504551" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg163@2x614x436.png" crc="3919257159" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="rectanglec@2x579x294.jpg" crc="4285108214" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg164@2x118x114.jpg" crc="34952368" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg160@2x158x281.jpg" crc="4052878598" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="rectangle a@2x295x129.jpg" crc="4027579729" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg164@2x180x173.jpg" crc="3938866425" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg163@2x460x327.png" crc="458430027" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="rectanglec@2x434x221.jpg" crc="4214581512" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg164@2x89x85.jpg" crc="4264953744" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg160@2x119x211.jpg" crc="147520288" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="rectangle a@2x221x97.jpg" crc="3967638940" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="wechatimg164@2x135x130.jpg" crc="135745635" seo="true" ref="personal-resume">
+      <caption webpage="personal-resume" alt=""/>
+    </file>
+    <file name="bitm@2x.png" crc="4024919741" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="a@2x.jpg" crc="4111083605" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="ap@2x.jpg" crc="3876161994" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="bap@2x.jpg" crc="3983499990" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="bip@2x.png" crc="3786581874" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="bitp@2x.jpg" crc="245214905" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="bmap@2x.jpg" crc="4162544867" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="bweap@2x.jpg" crc="445844471" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="fgp@2x.jpg" crc="38093403" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="rectangla@2x.png" crc="4235542519" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="rectan@2x.jpg" crc="484172432" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="weibo@2x2.png" crc="3758250627" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="weixin@2x2.png" crc="4199669274" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="youxinag@2x.png" crc="3801933653" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="bitm@2x239x309.png" crc="452265588" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="bitm@2x199x258.png" crc="313459147" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="bitm@2x150x193.png" crc="4015453491" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+    </file>
+    <file name="bitm@2x100x129.png" crc="414809927" seo="true" ref="portfile">
+      <caption webpage="portfile" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4012104324" seo="true" mt="1529499886928" redirect="true"/>
+  <file name="personal-resume.html" crc="3987020711" seo="true" mt="1529499209362" redirect="true"/>
+  <file name="portfile.html" crc="376605462" seo="true" mt="1529500387896" redirect="true"/>
+</manifest>
